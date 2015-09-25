@@ -1,0 +1,13 @@
+{
+  "name": "tray",
+  "version": "0.1.2",
+  "homepage": "https://github.com/kossnocorp/tray",
+  "authors": [
+    "Sasha Koss <kossnocorp@gmail.com>"
+  ],
+  "description": "Nothing here, really",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT",
+  "private": false,
+  "ignore": ["**/.*"]
